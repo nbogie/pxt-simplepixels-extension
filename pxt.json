@@ -1,5 +1,5 @@
 {
-    "name": "simplepixels-extension-test",
+    "name": "simplepixels-extension",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -7,13 +7,13 @@
     },
     "description": "",
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md",
         "custom.ts"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "installedVersion": "workspace:878bfa55-c319-4e3e-2c54-c9b296e8c304"
 }
